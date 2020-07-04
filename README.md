@@ -10,3 +10,11 @@ Commits that enhance the beauty of this program are openly welcomed .
 A GUI update can be expected soon :)
 
 ------------------
+## The Rules Of Sudoku
+The classic Sudoku game involves a grid of 81 squares. The grid is divided into nine blocks, each containing nine squares.
+
+The rules of the game are simple: each of the nine blocks has to contain all the numbers 1-9 within its squares. Each number can only appear once in a row, column or box.
+
+The difficulty lies in that each vertical nine-square column, or horizontal nine-square line across, within the larger square, must also contain the numbers 1-9, without repetition or omission. 
+
+![Sudoku Puzzle](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSudoku&psig=AOvVaw37QxHmDWdQ0bfgRDVIjuG2&ust=1593974226071000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCLmfOetOoCFQAAAAAdAAAAABAD)
